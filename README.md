@@ -2,7 +2,7 @@
 
 A results-driven Backend and Mobile Developer with a strong foundation in building scalable server-side applications and intuitive mobile experiences. Proficient in designing robust APIs, managing databases, and translating complex requirements into clean, efficient code. Eager to contribute technical expertise to a dynamic team and build impactful products.
 
-## Socials:
+## Connect with me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_alvinfputra_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alvinfputra12/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCaiEH0fNVKH7maz3U7TEFYw)
 
