@@ -34,42 +34,30 @@
 
 <div align="center">
 
-<div style="background: linear-gradient(135deg, rgba(88,166,255,0.1) 0%, rgba(188,142,249,0.1) 100%); padding: 40px; border-radius: 20px; border: 1px solid rgba(88,166,255,0.2);">
+**Foundation**
 
-### Foundation
-<div style="margin: 25px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
-<img src="https://skillicons.dev/icons?i=nodejs,bun&theme=dark" alt="Foundation" />
-<div style="width: 2px; height: 60px; background: rgba(88,166,255,0.3);"></div>
-<img src="https://skillicons.dev/icons?i=debian,ubuntu,windows&theme=dark" alt="OS" />
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,bun,debian,ubuntu,windows&theme=dark" alt="Foundation" />
 
-### Core Skills
-<div style="margin: 25px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center; padding: 20px; background: rgba(88,166,255,0.05); border-radius: 15px;">
+**Core Languages**
+
 <img src="https://skillicons.dev/icons?i=javascript,typescript,go,python&theme=dark" alt="Languages" />
-</div>
 
-### Data & Infrastructure
-<div style="margin: 25px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
+**Databases**
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,cassandra,supabase,redis&theme=dark" alt="Databases" />
-<div style="width: 2px; height: 60px; background: rgba(188,142,249,0.3);"></div>
-<img src="https://skillicons.dev/icons?i=docker,git,github,nginx&theme=dark" alt="DevOps Core" />
-</div>
 
-### Advanced Development
-<div style="margin: 25px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center; padding: 20px; background: rgba(188,142,249,0.05); border-radius: 15px;">
+**Frameworks & Libraries**
+
 <img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,nuxtjs,astro,svelte&theme=dark" alt="Frameworks" />
-</div>
 
-### Cloud & Deployment
-<div style="margin: 25px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
-<img src="https://skillicons.dev/icons?i=vercel,gcp,cloudflare&theme=dark" alt="Cloud" />
-</div>
+**DevOps & Cloud**
 
-</div>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,gcp,cloudflare,nginx&theme=dark" alt="DevOps" />
 
 </div>
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
