@@ -61,9 +61,30 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsubametaa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tsubametaa&theme=vue-dark&hide_border=false" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsubametaa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages"/>
+
+<!-- Main Stats Card -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsubametaa&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&icon_color=58a6ff&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/tsubametaa)
+
+<!-- Top Languages -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsubametaa&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&layout=compact&langs_count=6)](https://github.com/tsubametaa)
+
+<!-- Quick Stats Badges -->
+<br/>
+
+| 📈 Metric | 📊 Value |
+|-----------|---------|
+| **Public Repositories** | [![Repos](https://img.shields.io/badge/Repos-%2320-0d47a1?style=flat-square&logo=github&logoColor=58a6ff)](https://github.com/tsubametaa?tab=repositories) |
+| **Pull Requests** | [![PRs](https://img.shields.io/badge/PRs-%2145-155a35?style=flat-square&logo=git&logoColor=3fb950)](https://github.com/tsubametaa) |
+| **Total Commits** | [![Commits](https://img.shields.io/badge/Commits-%231.2K-5c2d91?style=flat-square&logo=github&logoColor=bc8ef9)](https://github.com/tsubametaa) |
+| **Followers** | [![Followers](https://img.shields.io/badge/Followers-%2380-ffd43b?style=flat-square&logo=github&logoColor=ffd43b)](https://github.com/tsubametaa/followers) |
+
+<br/>
+
+<!-- Contribution Stats -->
+<a href="https://github.com/tsubametaa">
+  <img height="180em" src="https://streak-stats.demolab.com?user=tsubametaa&theme=tokyonight&hide_border=true&background=0d1117" />
+</a>
+
 </div>
 
 ---
