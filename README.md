@@ -146,51 +146,94 @@
 
 ### 📈 Contribution Overview
 
-<svg width="100%" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="800" height="300" fill="#0d1117" rx="10"/>
+<svg width="100%" viewBox="0 0 1000 350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1f6feb;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3fb950;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#238636;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#bc8ef9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8957e5;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffd43b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d29922;stop-opacity:1" />
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.4"/>
+    </filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Card -->
+  <rect x="20" y="20" width="960" height="310" fill="#0d1117" stroke="#30363d" stroke-width="1" rx="15" opacity="0.8"/>
   
-  <!-- Grid lines -->
-  <line x1="80" y1="20" x2="80" y2="260" stroke="#30363d" stroke-width="2"/>
-  <line x1="80" y1="260" x2="780" y2="260" stroke="#30363d" stroke-width="2"/>
-  
-  <!-- Y-axis labels -->
-  <text x="10" y="270" font-size="12" fill="#8b949e" text-anchor="end">0</text>
-  <text x="10" y="205" font-size="12" fill="#8b949e" text-anchor="end">500</text>
-  <text x="10" y="140" font-size="12" fill="#8b949e" text-anchor="end">1K</text>
-  <text x="10" y="75" font-size="12" fill="#8b949e" text-anchor="end">1.5K</text>
-  
-  <!-- Grid reference lines -->
-  <line x1="75" y1="195" x2="780" y2="195" stroke="#21262d" stroke-width="1" stroke-dasharray="5,5"/>
-  <line x1="75" y1="130" x2="780" y2="130" stroke="#21262d" stroke-width="1" stroke-dasharray="5,5"/>
-  <line x1="75" y1="65" x2="780" y2="65" stroke="#21262d" stroke-width="1" stroke-dasharray="5,5"/>
-  
-  <!-- Bar 1: Public Repos (20) -->
-  <rect x="120" y="220" width="80" height="40" fill="#58a6ff" rx="5"/>
-  <text x="160" y="250" font-size="16" font-weight="bold" fill="white" text-anchor="middle">20</text>
-  <text x="160" y="30" font-size="13" fill="#8b949e" text-anchor="middle">📦</text>
-  <text x="160" y="45" font-size="12" fill="#c9d1d9" text-anchor="middle" font-weight="bold">Repos</text>
-  
-  <!-- Bar 2: Pull Requests (45) -->
-  <rect x="280" y="190" width="80" height="70" fill="#3fb950" rx="5"/>
-  <text x="320" y="235" font-size="16" font-weight="bold" fill="white" text-anchor="middle">45</text>
-  <text x="320" y="30" font-size="13" fill="#8b949e" text-anchor="middle">🔀</text>
-  <text x="320" y="45" font-size="12" fill="#c9d1d9" text-anchor="middle" font-weight="bold">Pull Requests</text>
-  
-  <!-- Bar 3: Total Commits (1.2K) -->
-  <rect x="440" y="75" width="80" height="185" fill="#bc8ef9" rx="5"/>
-  <text x="480" y="175" font-size="16" font-weight="bold" fill="white" text-anchor="middle">1.2K</text>
-  <text x="480" y="30" font-size="13" fill="#8b949e" text-anchor="middle">💾</text>
-  <text x="480" y="45" font-size="12" fill="#c9d1d9" text-anchor="middle" font-weight="bold">Commits</text>
-  
-  <!-- Bar 4: Followers (80) -->
-  <rect x="600" y="205" width="80" height="55" fill="#ffd43b" rx="5"/>
-  <text x="640" y="240" font-size="16" font-weight="bold" fill="#0d1117" text-anchor="middle">80+</text>
-  <text x="640" y="30" font-size="13" fill="#8b949e" text-anchor="middle">👥</text>
-  <text x="640" y="45" font-size="12" fill="#c9d1d9" text-anchor="middle" font-weight="bold">Followers</text>
-  
-  <!-- X-axis label -->
-  <text x="400" y="290" font-size="12" fill="#8b949e" text-anchor="middle">GitHub Metrics</text>
+  <!-- Title -->
+  <text x="500" y="50" font-size="24" font-weight="bold" fill="#c9d1d9" text-anchor="middle">GitHub Contribution Metrics</text>
+  <line x1="100" y1="65" x2="900" y2="65" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Card 1: Public Repos -->
+  <g filter="url(#shadow)">
+    <rect x="60" y="95" width="190" height="230" fill="#0d1117" stroke="#58a6ff" stroke-width="2" rx="12" opacity="0.9"/>
+    <rect x="60" y="95" width="190" height="8" fill="url(#grad1)" rx="12" rx-top="12"/>
+    
+    <circle cx="155" cy="160" r="45" fill="url(#grad1)" opacity="0.15"/>
+    <text x="155" y="180" font-size="48" text-anchor="middle" dominant-baseline="middle">📦</text>
+    
+    <text x="155" y="235" font-size="32" font-weight="bold" fill="#58a6ff" text-anchor="middle">20</text>
+    <text x="155" y="260" font-size="14" fill="#c9d1d9" text-anchor="middle" font-weight="600">Public Repos</text>
+    <text x="155" y="305" font-size="12" fill="#8b949e" text-anchor="middle">Open source projects</text>
+  </g>
+
+  <!-- Card 2: Pull Requests -->
+  <g filter="url(#shadow)">
+    <rect x="280" y="95" width="190" height="230" fill="#0d1117" stroke="#3fb950" stroke-width="2" rx="12" opacity="0.9"/>
+    <rect x="280" y="95" width="190" height="8" fill="url(#grad2)" rx="12" rx-top="12"/>
+    
+    <circle cx="375" cy="160" r="45" fill="url(#grad2)" opacity="0.15"/>
+    <text x="375" y="180" font-size="48" text-anchor="middle" dominant-baseline="middle">🔀</text>
+    
+    <text x="375" y="235" font-size="32" font-weight="bold" fill="#3fb950" text-anchor="middle">45</text>
+    <text x="375" y="260" font-size="14" fill="#c9d1d9" text-anchor="middle" font-weight="600">Pull Requests</text>
+    <text x="375" y="305" font-size="12" fill="#8b949e" text-anchor="middle">Contributions & fixes</text>
+  </g>
+
+  <!-- Card 3: Total Commits -->
+  <g filter="url(#shadow)">
+    <rect x="500" y="95" width="190" height="230" fill="#0d1117" stroke="#bc8ef9" stroke-width="2" rx="12" opacity="0.9"/>
+    <rect x="500" y="95" width="190" height="8" fill="url(#grad3)" rx="12" rx-top="12"/>
+    
+    <circle cx="595" cy="160" r="45" fill="url(#grad3)" opacity="0.15"/>
+    <text x="595" y="180" font-size="48" text-anchor="middle" dominant-baseline="middle">💾</text>
+    
+    <text x="595" y="235" font-size="32" font-weight="bold" fill="#bc8ef9" text-anchor="middle">1.2K</text>
+    <text x="595" y="260" font-size="14" fill="#c9d1d9" text-anchor="middle" font-weight="600">Total Commits</text>
+    <text x="595" y="305" font-size="12" fill="#8b949e" text-anchor="middle">Code development</text>
+  </g>
+
+  <!-- Card 4: Followers -->
+  <g filter="url(#shadow)">
+    <rect x="720" y="95" width="190" height="230" fill="#0d1117" stroke="#ffd43b" stroke-width="2" rx="12" opacity="0.9"/>
+    <rect x="720" y="95" width="190" height="8" fill="url(#grad4)" rx="12" rx-top="12"/>
+    
+    <circle cx="815" cy="160" r="45" fill="url(#grad4)" opacity="0.15"/>
+    <text x="815" y="180" font-size="48" text-anchor="middle" dominant-baseline="middle">👥</text>
+    
+    <text x="815" y="235" font-size="32" font-weight="bold" fill="#ffd43b" text-anchor="middle">80+</text>
+    <text x="815" y="260" font-size="14" fill="#c9d1d9" text-anchor="middle" font-weight="600">Followers</text>
+    <text x="815" y="305" font-size="12" fill="#8b949e" text-anchor="middle">Community support</text>
+  </g>
 </svg>
 
 <br/>
