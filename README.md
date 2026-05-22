@@ -9,7 +9,7 @@
 
 <!-- Profile Views & Social Badges -->
 
-[![Portfolio](https://img.shields.io/badge/Globe-%23E4405F.svg?style=for-the-badge&logo=Globe&logoColor=white)](https://alvinfputra.com/)
+[![Portfolio](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://utaaa.my.id/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_alvinfputra_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alvinfputra12/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@UCaiEH0fNVKH7maz3U7TEFYw)
