@@ -144,97 +144,38 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ### 📈 Contribution Overview
 
-<svg width="100%" viewBox="0 0 1000 350" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1f6feb;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="grad2" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#3fb950;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#238636;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="grad3" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#bc8ef9;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#8957e5;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient id="grad4" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#ffd43b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#d29922;stop-opacity:1" />
-    </linearGradient>
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-opacity="0.4"/>
-    </filter>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- Background Card -->
-  <rect x="20" y="20" width="960" height="310" fill="#0d1117" stroke="#30363d" stroke-width="1" rx="15" opacity="0.8"/>
-  
-  <!-- Title -->
-  <text x="500" y="50" font-size="24" font-weight="bold" fill="#c9d1d9" text-anchor="middle">GitHub Contribution Metrics</text>
-  <line x1="100" y1="65" x2="900" y2="65" stroke="#30363d" stroke-width="1"/>
-
-  <!-- Card 1: Public Repos -->
-  <g filter="url(#shadow)">
-    <rect x="60" y="95" width="190" height="230" fill="#0d1117" stroke="#58a6ff" stroke-width="2" rx="12" opacity="0.9"/>
-    <rect x="60" y="95" width="190" height="8" fill="url(#grad1)" rx="12" rx-top="12"/>
-    
-    <circle cx="155" cy="160" r="45" fill="url(#grad1)" opacity="0.15"/>
-    <text x="155" y="180" font-size="48" text-anchor="middle" dominant-baseline="middle">📦</text>
-    
-    <text x="155" y="235" font-size="32" font-weight="bold" fill="#58a6ff" text-anchor="middle">20</text>
-    <text x="155" y="260" font-size="14" fill="#c9d1d9" text-anchor="middle" font-weight="600">Public Repos</text>
-    <text x="155" y="305" font-size="12" fill="#8b949e" text-anchor="middle">Open source projects</text>
-  </g>
-
-  <!-- Card 2: Pull Requests -->
-  <g filter="url(#shadow)">
-    <rect x="280" y="95" width="190" height="230" fill="#0d1117" stroke="#3fb950" stroke-width="2" rx="12" opacity="0.9"/>
-    <rect x="280" y="95" width="190" height="8" fill="url(#grad2)" rx="12" rx-top="12"/>
-    
-    <circle cx="375" cy="160" r="45" fill="url(#grad2)" opacity="0.15"/>
-    <text x="375" y="180" font-size="48" text-anchor="middle" dominant-baseline="middle">🔀</text>
-    
-    <text x="375" y="235" font-size="32" font-weight="bold" fill="#3fb950" text-anchor="middle">45</text>
-    <text x="375" y="260" font-size="14" fill="#c9d1d9" text-anchor="middle" font-weight="600">Pull Requests</text>
-    <text x="375" y="305" font-size="12" fill="#8b949e" text-anchor="middle">Contributions & fixes</text>
-  </g>
-
-  <!-- Card 3: Total Commits -->
-  <g filter="url(#shadow)">
-    <rect x="500" y="95" width="190" height="230" fill="#0d1117" stroke="#bc8ef9" stroke-width="2" rx="12" opacity="0.9"/>
-    <rect x="500" y="95" width="190" height="8" fill="url(#grad3)" rx="12" rx-top="12"/>
-    
-    <circle cx="595" cy="160" r="45" fill="url(#grad3)" opacity="0.15"/>
-    <text x="595" y="180" font-size="48" text-anchor="middle" dominant-baseline="middle">💾</text>
-    
-    <text x="595" y="235" font-size="32" font-weight="bold" fill="#bc8ef9" text-anchor="middle">1.2K</text>
-    <text x="595" y="260" font-size="14" fill="#c9d1d9" text-anchor="middle" font-weight="600">Total Commits</text>
-    <text x="595" y="305" font-size="12" fill="#8b949e" text-anchor="middle">Code development</text>
-  </g>
-
-  <!-- Card 4: Followers -->
-  <g filter="url(#shadow)">
-    <rect x="720" y="95" width="190" height="230" fill="#0d1117" stroke="#ffd43b" stroke-width="2" rx="12" opacity="0.9"/>
-    <rect x="720" y="95" width="190" height="8" fill="url(#grad4)" rx="12" rx-top="12"/>
-    
-    <circle cx="815" cy="160" r="45" fill="url(#grad4)" opacity="0.15"/>
-    <text x="815" y="180" font-size="48" text-anchor="middle" dominant-baseline="middle">👥</text>
-    
-    <text x="815" y="235" font-size="32" font-weight="bold" fill="#ffd43b" text-anchor="middle">80+</text>
-    <text x="815" y="260" font-size="14" fill="#c9d1d9" text-anchor="middle" font-weight="600">Followers</text>
-    <text x="815" y="305" font-size="12" fill="#8b949e" text-anchor="middle">Community support</text>
-  </g>
-</svg>
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 1000px;">
+  <tr>
+    <td align="center" style="padding: 20px; border: 2px solid #58a6ff; border-radius: 12px; background: rgba(88,166,255,0.05); margin: 10px;">
+      <div style="font-size: 40px; margin-bottom: 10px;">📦</div>
+      <div style="font-size: 28px; font-weight: bold; color: #58a6ff;">20</div>
+      <div style="font-size: 14px; color: #c9d1d9; font-weight: 600; margin-top: 5px;">Public Repos</div>
+      <div style="font-size: 12px; color: #8b949e; margin-top: 8px;">Open source projects</div>
+    </td>
+    <td align="center" style="padding: 20px; border: 2px solid #3fb950; border-radius: 12px; background: rgba(63,185,80,0.05); margin: 10px;">
+      <div style="font-size: 40px; margin-bottom: 10px;">🔀</div>
+      <div style="font-size: 28px; font-weight: bold; color: #3fb950;">45</div>
+      <div style="font-size: 14px; color: #c9d1d9; font-weight: 600; margin-top: 5px;">Pull Requests</div>
+      <div style="font-size: 12px; color: #8b949e; margin-top: 8px;">Contributions & fixes</div>
+    </td>
+    <td align="center" style="padding: 20px; border: 2px solid #bc8ef9; border-radius: 12px; background: rgba(188,142,249,0.05); margin: 10px;">
+      <div style="font-size: 40px; margin-bottom: 10px;">💾</div>
+      <div style="font-size: 28px; font-weight: bold; color: #bc8ef9;">1.2K</div>
+      <div style="font-size: 14px; color: #c9d1d9; font-weight: 600; margin-top: 5px;">Total Commits</div>
+      <div style="font-size: 12px; color: #8b949e; margin-top: 8px;">Code development</div>
+    </td>
+    <td align="center" style="padding: 20px; border: 2px solid #ffd43b; border-radius: 12px; background: rgba(255,212,59,0.05); margin: 10px;">
+      <div style="font-size: 40px; margin-bottom: 10px;">👥</div>
+      <div style="font-size: 28px; font-weight: bold; color: #ffd43b;">80+</div>
+      <div style="font-size: 14px; color: #c9d1d9; font-weight: 600; margin-top: 5px;">Followers</div>
+      <div style="font-size: 12px; color: #8b949e; margin-top: 8px;">Community support</div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
