@@ -62,16 +62,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tsubametaa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=tsubametaa&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsubametaa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="40%" alt="Top Languages"/>
+![](https://github-readme-stats.vercel.app/api?username=tsubametaa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tsubametaa&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsubametaa&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 </div>
 
 ---
+
 
 ## 🏆 GitHub Trophies
 
