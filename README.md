@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/tsubametaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Alvin+%F0%9F%91%8B;Backend+%26+Mobile+Developer;Building+Scalable+%26+Intuitive+Apps;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Utaaa+%F0%9F%91%8B;Backend+%26+Mobile+Developer;Building+Scalable+%26+Intuitive+Apps;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
