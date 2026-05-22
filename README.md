@@ -60,30 +60,101 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+### 📈 Contribution Overview
 
-<!-- Main Stats Card -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsubametaa&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&icon_color=58a6ff&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/tsubametaa)
+<svg width="100%" viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="300" fill="#0d1117" rx="10"/>
+  
+  <!-- Grid lines -->
+  <line x1="80" y1="20" x2="80" y2="260" stroke="#30363d" stroke-width="2"/>
+  <line x1="80" y1="260" x2="780" y2="260" stroke="#30363d" stroke-width="2"/>
+  
+  <!-- Y-axis labels -->
+  <text x="10" y="270" font-size="12" fill="#8b949e" text-anchor="end">0</text>
+  <text x="10" y="205" font-size="12" fill="#8b949e" text-anchor="end">500</text>
+  <text x="10" y="140" font-size="12" fill="#8b949e" text-anchor="end">1K</text>
+  <text x="10" y="75" font-size="12" fill="#8b949e" text-anchor="end">1.5K</text>
+  
+  <!-- Grid reference lines -->
+  <line x1="75" y1="195" x2="780" y2="195" stroke="#21262d" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="75" y1="130" x2="780" y2="130" stroke="#21262d" stroke-width="1" stroke-dasharray="5,5"/>
+  <line x1="75" y1="65" x2="780" y2="65" stroke="#21262d" stroke-width="1" stroke-dasharray="5,5"/>
+  
+  <!-- Bar 1: Public Repos (20) -->
+  <rect x="120" y="220" width="80" height="40" fill="#58a6ff" rx="5"/>
+  <text x="160" y="250" font-size="16" font-weight="bold" fill="white" text-anchor="middle">20</text>
+  <text x="160" y="30" font-size="13" fill="#8b949e" text-anchor="middle">📦</text>
+  <text x="160" y="45" font-size="12" fill="#c9d1d9" text-anchor="middle" font-weight="bold">Repos</text>
+  
+  <!-- Bar 2: Pull Requests (45) -->
+  <rect x="280" y="190" width="80" height="70" fill="#3fb950" rx="5"/>
+  <text x="320" y="235" font-size="16" font-weight="bold" fill="white" text-anchor="middle">45</text>
+  <text x="320" y="30" font-size="13" fill="#8b949e" text-anchor="middle">🔀</text>
+  <text x="320" y="45" font-size="12" fill="#c9d1d9" text-anchor="middle" font-weight="bold">Pull Requests</text>
+  
+  <!-- Bar 3: Total Commits (1.2K) -->
+  <rect x="440" y="75" width="80" height="185" fill="#bc8ef9" rx="5"/>
+  <text x="480" y="175" font-size="16" font-weight="bold" fill="white" text-anchor="middle">1.2K</text>
+  <text x="480" y="30" font-size="13" fill="#8b949e" text-anchor="middle">💾</text>
+  <text x="480" y="45" font-size="12" fill="#c9d1d9" text-anchor="middle" font-weight="bold">Commits</text>
+  
+  <!-- Bar 4: Followers (80) -->
+  <rect x="600" y="205" width="80" height="55" fill="#ffd43b" rx="5"/>
+  <text x="640" y="240" font-size="16" font-weight="bold" fill="#0d1117" text-anchor="middle">80+</text>
+  <text x="640" y="30" font-size="13" fill="#8b949e" text-anchor="middle">👥</text>
+  <text x="640" y="45" font-size="12" fill="#c9d1d9" text-anchor="middle" font-weight="bold">Followers</text>
+  
+  <!-- X-axis label -->
+  <text x="400" y="290" font-size="12" fill="#8b949e" text-anchor="middle">GitHub Metrics</text>
+</svg>
 
-<!-- Top Languages -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsubametaa&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3&title_color=58a6ff&layout=compact&langs_count=6)](https://github.com/tsubametaa)
-
-<!-- Quick Stats Badges -->
 <br/>
 
-| 📈 Metric | 📊 Value |
-|-----------|---------|
-| **Public Repositories** | [![Repos](https://img.shields.io/badge/Repos-%2320-0d47a1?style=flat-square&logo=github&logoColor=58a6ff)](https://github.com/tsubametaa?tab=repositories) |
-| **Pull Requests** | [![PRs](https://img.shields.io/badge/PRs-%2145-155a35?style=flat-square&logo=git&logoColor=3fb950)](https://github.com/tsubametaa) |
-| **Total Commits** | [![Commits](https://img.shields.io/badge/Commits-%231.2K-5c2d91?style=flat-square&logo=github&logoColor=bc8ef9)](https://github.com/tsubametaa) |
-| **Followers** | [![Followers](https://img.shields.io/badge/Followers-%2380-ffd43b?style=flat-square&logo=github&logoColor=ffd43b)](https://github.com/tsubametaa/followers) |
+### 💻 Top Languages & Tech
+
+<table>
+  <tr>
+    <th>🗣️ Languages</th>
+    <th>📊 Usage</th>
+    <th>🛠️ Frameworks</th>
+  </tr>
+  <tr>
+    <td>
+      <code>TypeScript</code><br/>
+      <code>Go</code><br/>
+      <code>JavaScript</code>
+    </td>
+    <td>
+      ████████░ 80%<br/>
+      ██████░░░ 60%<br/>
+      █████░░░░ 50%
+    </td>
+    <td>
+      <code>Next.js</code><br/>
+      <code>React</code><br/>
+      <code>Flutter</code>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<!-- Contribution Stats -->
-<a href="https://github.com/tsubametaa">
-  <img height="180em" src="https://streak-stats.demolab.com?user=tsubametaa&theme=tokyonight&hide_border=true&background=0d1117" />
-</a>
+### 🎯 Quick Stats
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+[![Repos](https://img.shields.io/badge/📦_Public%20Repos-20-58a6ff?style=for-the-badge&logoColor=white)](https://github.com/tsubametaa?tab=repositories)
+[![PRs](https://img.shields.io/badge/🔀_Pull%20Requests-45-3fb950?style=for-the-badge&logoColor=white)](https://github.com/tsubametaa)
+[![Commits](https://img.shields.io/badge/💾_Total%20Commits-1.2K-bc8ef9?style=for-the-badge&logoColor=white)](https://github.com/tsubametaa)
+[![Followers](https://img.shields.io/badge/👥_Followers-80+-ffd43b?style=for-the-badge&logoColor=white)](https://github.com/tsubametaa/followers)
+
+</div>
+
+<br/>
+
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=tsubametaa&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/tsubametaa)
 
 </div>
 
