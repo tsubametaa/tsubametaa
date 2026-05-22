@@ -34,9 +34,13 @@
 
 <div align="center">
 
-**Foundation**
+**Runtime**
 
-<img src="https://skillicons.dev/icons?i=nodejs,bun,debian,ubuntu,windows&theme=dark" alt="Foundation" />
+<img src="https://skillicons.dev/icons?i=nodejs,bun&theme=dark" alt="Foundation" />
+
+**Operating System**
+
+<img src="https://skillicons.dev/icons?i=debian,ubuntu,windows&theme=dark" alt="Foundation" />
 
 **Core Languages**
 
