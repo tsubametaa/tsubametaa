@@ -34,42 +34,40 @@
 
 <div align="center">
 
-### 🏃 Runtime
+<div style="background: linear-gradient(135deg, rgba(88,166,255,0.1) 0%, rgba(188,142,249,0.1) 100%); padding: 40px; border-radius: 20px; border: 1px solid rgba(88,166,255,0.2);">
 
-<img src="https://skillicons.dev/icons?i=nodejs,bun&theme=dark&perline=2" alt="Runtime" />
+### Foundation
+<div style="margin: 25px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
+<img src="https://skillicons.dev/icons?i=nodejs,bun&theme=dark" alt="Foundation" />
+<div style="width: 2px; height: 60px; background: rgba(88,166,255,0.3);"></div>
+<img src="https://skillicons.dev/icons?i=debian,ubuntu,windows&theme=dark" alt="OS" />
+</div>
 
-<br/>
+### Core Skills
+<div style="margin: 25px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center; padding: 20px; background: rgba(88,166,255,0.05); border-radius: 15px;">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,go,python&theme=dark" alt="Languages" />
+</div>
 
-### 🗣️ Operating System
+### Data & Infrastructure
+<div style="margin: 25px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,cassandra,supabase,redis&theme=dark" alt="Databases" />
+<div style="width: 2px; height: 60px; background: rgba(188,142,249,0.3);"></div>
+<img src="https://skillicons.dev/icons?i=docker,git,github,nginx&theme=dark" alt="DevOps Core" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=debian,ubuntu,windows&theme=dark&perline=3" alt="Operating System" />
+### Advanced Development
+<div style="margin: 25px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center; padding: 20px; background: rgba(188,142,249,0.05); border-radius: 15px;">
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,nuxtjs,astro,svelte&theme=dark" alt="Frameworks" />
+</div>
 
-<br/>
-
-### 🗣️ Languages
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,go,python&theme=dark&perline=4" alt="Languages" />
-
-<br/>
-
-### 💾 Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,cassandra,supabase,redis&theme=dark&perline=5" alt="Databases" />
-
-<br/>
-
-### 🚀 Frameworks
-
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,flutter,nuxtjs,astro,svelte&theme=dark&perline=6" alt="Frameworks" />
-
-<br/>
-
-### 🔧 DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,gcp,cloudflare,nginx&theme=dark&perline=7" alt="DevOps" />
+### Cloud & Deployment
+<div style="margin: 25px 0; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
+<img src="https://skillicons.dev/icons?i=vercel,gcp,cloudflare&theme=dark" alt="Cloud" />
+</div>
 
 </div>
 
+</div>
 ---
 
 ## 📊 GitHub Stats
