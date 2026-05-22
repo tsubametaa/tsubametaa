@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://github.com/tsubametaa">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Alvin+%F0%9F%91%8B;Backend+%26+Mobile+Developer;Building+Scalable+%26+Intuitive+Apps;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Utaaa+%F0%9F%91%8B;Backend+%26+Mobile+Developer;Building+Scalable+%26+Intuitive+Apps;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,31 +30,115 @@
 
 ## 🛠️ Tech Stack
 
-### 🗣️ Languages
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<div align="center">
 
-### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Astro](https://img.shields.io/badge/Astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+### 🗣️ Programming Languages
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #00ADD8 0%, #0099CC 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,173,216,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+        <br/><strong>Go</strong><br/><small>Backend, CLI</small>
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #007ACC 0%, #0056B3 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,122,204,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+        <br/><strong>TypeScript</strong><br/><small>Full-stack</small>
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #323330 0%, #F7DF1E 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(247,221,30,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+        <br/><strong>JavaScript</strong><br/><small>Frontend, Scripting</small>
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #0175C2 0%, #0A4C7C 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(1,117,194,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+        <br/><strong>Dart</strong><br/><small>Mobile, Flutter</small>
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #7F52FF 0%, #5A2D82 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(127,82,255,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+        <br/><strong>Kotlin</strong><br/><small>Android</small>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+<br/>
 
-### ☁️ DevOps & Cloud
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+### 📱 Frameworks & Libraries
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #000000 0%, #404040 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(64,64,64,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="filter: invert(1);"/>
+        <br/><strong>Next.js</strong><br/><small>React Framework</small>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #61DAFB 0%, #20232A 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(97,218,251,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+        <br/><strong>React</strong><br/><small>UI Library</small>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #02569B 0%, #0B3E6F 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(2,86,155,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+        <br/><strong>Flutter</strong><br/><small>Cross-platform</small>
+      </div>
+    </td>
+    <td align="center" width="25%">
+      <div style="background: linear-gradient(135deg, #4FC08D 0%, #2C3E50 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(79,192,141,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+        <br/><strong>Vue.js</strong><br/><small>Progressive Framework</small>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🗄️ Databases & Storage
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #336791 0%, #1A4D6D 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(51,103,145,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+        <br/><strong>PostgreSQL</strong><br/><small>Relational DB</small>
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #4479A1 0%, #2C5282 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(68,121,161,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+        <br/><strong>MySQL</strong><br/><small>SQL Database</small>
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #4ea94b 0%, #2d5016 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(78,169,75,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+        <br/><strong>MongoDB</strong><br/><small>NoSQL</small>
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #DC382D 0%, #8B1A1A 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(220,56,45,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+        <br/><strong>Redis</strong><br/><small>Cache, In-Memory</small>
+      </div>
+    </td>
+    <td align="center" width="20%">
+      <div style="background: linear-gradient(135deg, #1287B1 0%, #0A4D6D 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(18,135,177,0.3);">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="Cassandra" width="40" height="40"/>
+        <br/><strong>Cassandra</strong><br/><small>Distributed DB</small>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 ---
 
