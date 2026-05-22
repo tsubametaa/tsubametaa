@@ -32,40 +32,7 @@
 
 <div align="center">
 
-### 🗣️ Programming Languages
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <div style="background: linear-gradient(135deg, #00ADD8 0%, #0099CC 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,173,216,0.3);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-        <br/><strong>Go</strong><br/><small>Backend, CLI</small>
-      </div>
-    </td>
-    <td align="center" width="20%">
-      <div style="background: linear-gradient(135deg, #007ACC 0%, #0056B3 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,122,204,0.3);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-        <br/><strong>TypeScript</strong><br/><small>Full-stack</small>
-      </div>
-    </td>
-    <td align="center" width="20%">
-      <div style="background: linear-gradient(135deg, #323330 0%, #F7DF1E 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(247,221,30,0.3);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-        <br/><strong>JavaScript</strong><br/><small>Frontend, Scripting</small>
-      </div>
-    </td>
-    <td align="center" width="20%">
-      <div style="background: linear-gradient(135deg, #0175C2 0%, #0A4C7C 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(1,117,194,0.3);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-        <br/><strong>Dart</strong><br/><small>Mobile, Flutter</small>
-      </div>
-    </td>
-    <td align="center" width="20%">
-      <div style="background: linear-gradient(135deg, #7F52FF 0%, #5A2D82 100%); padding: 15px; border-radius: 10px; box-shadow: 0 4px 15px rgba(127,82,255,0.3);">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-        <br/><strong>Kotlin</strong><br/><small>Android</small>
-      </div>
-    </td>
-  </tr>### 🗣️ Languages
+### 🗣️ Languages
 
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 20px 0; padding: 25px; background: rgba(30,48,80,0.3); border-radius: 15px; border: 1px solid #30363d;">
   <div style="text-align: center;">
@@ -157,6 +124,7 @@
   </div>
 </div>
 
+</div>
 <br/>
 
 ---
